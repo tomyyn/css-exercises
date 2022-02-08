@@ -1,0 +1,14 @@
+.lb,
+.rb{
+    font-size: 28px;
+    font-family: Helvetica, "times new roman", sans-serif;
+}
+
+.lb{
+    background-color: black;
+    color:white;
+}
+
+.rb{
+    background-color: yellow;
+}
