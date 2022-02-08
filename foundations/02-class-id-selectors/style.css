@@ -1,0 +1,19 @@
+.Odd{
+    font-family:Verdana, "Dejavu Sanz", sans-serif;
+    background-color: #e298c0;
+}
+
+#second{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#fourth{
+    font-size: 24px;
+    background-color: #00FF00;
+    font-weight: bold;
+}
+
+.special{
+    font-size: 24px;
+}
