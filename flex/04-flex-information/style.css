@@ -10,8 +10,20 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin-bottom: 32px;
 }
 
+.infos{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.infobox{
+  text-align: center;
+  width: 200px;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
